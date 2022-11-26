@@ -1,0 +1,46 @@
+{
+  "photos": [
+    {
+        "id":"1",
+        "ph":"../../static/6_photo_manage/p.jpg",
+        "name":"032002xxx张三",
+        "time":"2022.10.20"
+    },
+    {
+        "id":"2",
+        "ph":"../../static/6_photo_manage/p.jpg",
+        "name":"032002xxx李四",
+        "time":"2022.10.21"
+    },
+    {
+        "id":"3",
+        "ph":"../../static/6_photo_manage/p.jpg",
+        "name":"032002xxx王五",
+        "time":"2022.10.22"
+    },
+    {
+        "id":"4",
+        "ph":"../../static/6_photo_manage/p.jpg",
+        "name":"032002xxx飞机",
+        "time":"2022.10.23"
+    },
+    {
+        "id":"5",
+        "ph":"../../static/6_photo_manage/p.jpg",
+        "name":"032002xxx大炮",
+        "time":"2022.10.24"
+    },
+    {
+        "id":"6",
+        "ph":"../../static/6_photo_manage/p.jpg",
+        "name":"032002xxx坦克",
+        "time":"2022.10.25"
+    },
+    {
+        "id":"7",
+        "ph":"../../static/6_photo_manage/p.jpg",
+        "name":"032002xxx地雷",
+        "time":"2022.10.26"
+    }
+  ]
+}
